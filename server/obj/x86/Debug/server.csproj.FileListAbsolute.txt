@@ -179,3 +179,13 @@ F:\Saxion\Projects\Y2\2.3 Innovation\Fenta3\MobileData\server\obj\x86\Debug\serv
 F:\Saxion\Projects\Y2\2.3 Innovation\Fenta3\MobileData\server\obj\x86\Debug\server.csproj.CopyComplete
 F:\Saxion\Projects\Y2\2.3 Innovation\Fenta3\MobileData\server\obj\x86\Debug\server.exe
 F:\Saxion\Projects\Y2\2.3 Innovation\Fenta3\MobileData\server\obj\x86\Debug\server.pdb
+F:\Saxion\Projects\Y2\2.3 Innovation\Fenta3-Server\server\bin\Debug\server.exe.config
+F:\Saxion\Projects\Y2\2.3 Innovation\Fenta3-Server\server\bin\Debug\server.exe
+F:\Saxion\Projects\Y2\2.3 Innovation\Fenta3-Server\server\bin\Debug\server.pdb
+F:\Saxion\Projects\Y2\2.3 Innovation\Fenta3-Server\server\bin\Debug\shared.dll
+F:\Saxion\Projects\Y2\2.3 Innovation\Fenta3-Server\server\bin\Debug\shared.pdb
+F:\Saxion\Projects\Y2\2.3 Innovation\Fenta3-Server\server\obj\x86\Debug\server.csproj.AssemblyReference.cache
+F:\Saxion\Projects\Y2\2.3 Innovation\Fenta3-Server\server\obj\x86\Debug\server.csproj.CoreCompileInputs.cache
+F:\Saxion\Projects\Y2\2.3 Innovation\Fenta3-Server\server\obj\x86\Debug\server.csproj.CopyComplete
+F:\Saxion\Projects\Y2\2.3 Innovation\Fenta3-Server\server\obj\x86\Debug\server.exe
+F:\Saxion\Projects\Y2\2.3 Innovation\Fenta3-Server\server\obj\x86\Debug\server.pdb

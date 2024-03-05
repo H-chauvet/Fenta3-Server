@@ -84,7 +84,7 @@
   <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy "$(TargetPath)" ..\..\..\..\BluetoothTesting\Assets\Shared\$(TargetFileName)
-copy "$(TargetPath)" ..\..\..\..\..\Fenta3-Mobile\Assets\Shared\$(TargetFileName)</PostBuildEvent>
+    <PostBuildEvent>copy "$(TargetPath)" ..\..\..\..\Fenta3\BluetoothTesting\Assets\Shared\$(TargetFileName)
+copy "$(TargetPath)" ..\..\..\..\Fenta3-Mobile\Assets\Shared\$(TargetFileName)</PostBuildEvent>
   </PropertyGroup>
 </Project>
