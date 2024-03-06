@@ -15,7 +15,6 @@ namespace shared
         {
             string sInteractPressed = pPacket.ReadString();
             interactPressed = bool.Parse(sInteractPressed);
-
         }
     }
 }
