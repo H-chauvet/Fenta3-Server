@@ -44,7 +44,8 @@ namespace server
 			if (pMessage is GyroData) handleGyroData(pMessage as GyroData, pSender);
 			if (pMessage is LightData) handleLightData(pMessage as LightData, pSender);
 			if (pMessage is JoystickData) handleJoystickData(pMessage as JoystickData, pSender);
-            if (pMessage is LookData) handleLookData(pMessage as LookData, pSender); ;
+            if (pMessage is LookData) handleLookData(pMessage as LookData, pSender);
+            if (pMessage is InteractData) handleInteractData(pMessage as InteractData, pSender);
         }
 
 		
@@ -76,6 +77,11 @@ namespace server
         private void handleLookData(LookData pLookData, TcpMessageChannel pSender)
         {
             sendToAll(pLookData);
+        }
+
+        private void handleInteractData(InteractData pInteractData, TcpMessageChannel pSender)
+        {
+            sendToAll(pInteractData);
         }
         private void sendServerUpdateCount()
 		{
